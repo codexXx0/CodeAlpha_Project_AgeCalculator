@@ -275,7 +275,7 @@ button:hover {
         box-shadow: none;
         border-radius: 0;
         margin: 0;
-        padding-top: 70px;
+        padding-top: 90px;
     }
     .autoCalc {
         background: #e0e0e0;
@@ -309,7 +309,7 @@ button:hover {
             transform:translateY(0)
         }
         100%{
-            transform:translateY(-106%)
+            transform:translateY(-108%)
         }
     }
 }
