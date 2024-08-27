@@ -282,6 +282,10 @@ button:hover {
     #autoAge {
         margin-top: 20px;
     }
+    .endPage {
+        height: 100vh;
+        justify-content: center;
+    }
     .frontPage {
         padding: 0;
         text-align: center;
